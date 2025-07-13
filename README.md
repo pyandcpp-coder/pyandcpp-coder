@@ -1,9 +1,8 @@
-# 👋 Hello, I'm Yash Tiwari
+<h1 align="center">Hi 👋, I'm Yash Tiwari</h1>
 
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</div>
-
+</p>
 ## About Me
 
 I'm a passionate **Machine Learning Engineer** with a strong foundation in AI/ML technologies and modern web development. Currently expanding my expertise in **Node.js** while working on innovative educational technology solutions.
