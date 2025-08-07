@@ -7,12 +7,12 @@
 
 ## About Me
 
-I'm a passionate **Machine Learning Engineer** with a strong foundation in AI/ML technologies and modern web development. Currently expanding my expertise in **Node.js** while working on innovative educational technology solutions.
+I'm a passionate **Machine Learning Engineer** with a strong foundation in AI/ML technologies and modern web development. Currently expanding my expertise in **ROSs**.
 
 - **Current Project**: [Shiksha-Sahayak](https://github.com/pyandcpp-coder/Shiksha-Sahayak) - An AI-powered educational assistance platform
-- **Learning**: Advanced Node.js and backend architecture
-- **Expertise**: Machine Learning, Deep Learning, Full Stack Development
-- **Focus**: Building scalable AI solutions and educational technology
+- **Learning**: ROS, RL
+- **Expertise**: Machine Learning, Deep Learning
+- **Focus**: Building scalable AI solutions & Robots
 - **Contact**: yashtiwari9182@gmail.com
 
 ---
