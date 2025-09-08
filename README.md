@@ -55,18 +55,9 @@ Edge AI optimization achieving 30+ FPS YOLO detection on Raspberry Pi.
 ## Achievements
 
 - **Runner-Up** - ClearRoute Agentic AI Hackathon (100+ teams nationwide)
-- **Winner** - Local Robotics Competition & Coding Hackathon
+- **Winner** -  College Robotics Competition & Coding Hackathon
 - **Robotics Club Lead** - Led smart navigation system for visually impaired
 - **Certifications** - IBM ML Professional, Applied ML (Univ. of Michigan)
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pyandcpp-coder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyandcpp-coder&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
 ---
 
