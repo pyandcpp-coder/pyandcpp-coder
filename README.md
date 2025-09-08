@@ -28,15 +28,14 @@
 **Systems**: FastAPI, Docker, Redis, Linux, GCP, Qt
 
 ---
-
 ## Featured Projects
 
 ### 6-DOF Robotic Hand
-Advanced robotic hand with inverse kinematics, AI-powered grasping, and real-time control system.  
+- Advanced robotic hand with inverse kinematics, AI-powered grasping, and real-time control system.  
 **Tech**: C++, Python, Arduino, Computer Vision, SolidWorks
 
 ### Autonomous Navigation Vehicle
-Self-driving car with lane detection, obstacle avoidance, and SLAM using computer vision and sensor fusion.  
+- Self-driving car with lane detection, obstacle avoidance, and SLAM using computer vision and sensor fusion.  
 **Tech**: Python, OpenCV, Raspberry Pi, SLAM, Sensor Fusion
 ---
 
