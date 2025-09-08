@@ -1,78 +1,95 @@
-# Yash Tiwari
+# Hi 👋, I'm Yash Tiwari
 
-**Machine Learning Engineer | Embedded Systems Developer | AI Enthusiast**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+%26+Robotics+Engineer;Machine+Learning+Specialist;Autonomous+Systems+Developer" alt="Typing SVG" />
+</p>
 
-Currently pursuing Mechatronics Engineering at New Horizon Institute Of Technology, Thane (GPA: 8.2/10, graduating 12/2026)
+**Mechatronics Engineer** passionate about building intelligent robotic systems and scalable AI solutions. Currently working on autonomous robotics, computer vision, and real-time AI systems.
 
-## About
+**Contact**: yashtiwari9182@gmail.com | **Location**: Maharashtra, India
 
-I'm a passionate engineer focused on building scalable AI solutions and robotics systems. Currently working as a Software Developer at Google Summer of Code and AI Engineer at Qoneqt, with experience in embedded systems, computer vision, and full-stack development.
+---
 
-**Contact**: yashtiwari9182@gmail.com | 8369087569
+## Current Focus
 
-## Current Work
+**Robot Dog Development** - Building quadruped robot with autonomous navigation, SLAM, and AI-powered behaviors using ROS2 and computer vision
 
-- **Google Summer of Code - SAT**: Developing real-time gesture processing systems for professional musicians
-- **Qoneqt**: Building scalable AI authentication pipelines serving 20,000+ users
-- **Learning**: Advanced ROS, Reinforcement Learning
+**Real-Time Gesture Recognition** (Google Summer of Code) - Sub-millisecond latency system for professional musicians
+
+**AI Authentication Pipeline** (Qoneqt) - Serving 20,000+ users with 95% accuracy using YOLOv8 and distributed systems
+
+---
 
 ## Technical Skills
 
-**Programming**: Python, C++, C, JavaScript, Bash  
-**AI/ML**: TensorFlow, PyTorch, scikit-learn, OpenCV, YOLOv8, Tesseract  
-**Robotics**: ROS, Arduino, Raspberry Pi, Qt  
-**Web**: FastAPI, Flask, Django, Next.js, Node.js  
-**Tools**: Docker, Git, Linux, GCP, Redis, Nginx
+**AI & Robotics**: TensorFlow, PyTorch, OpenCV, YOLOv8, ROS/ROS2, SLAM, Computer Vision  
+**Programming**: Python, C++, C, Embedded C, JavaScript  
+**Hardware**: Arduino, Raspberry Pi, Sensors, CAD (SolidWorks)  
+**Systems**: FastAPI, Docker, Redis, Linux, GCP, Qt
+
+---
 
 ## Featured Projects
 
 ### 6-DOF Robotic Hand
-Designed and built a robotic hand with six degrees of freedom, implementing inverse kinematics for precise finger articulation and grasping capabilities.
-**Tech**: C++, Python, Arduino, SolidWorks
+Advanced robotic hand with inverse kinematics, AI-powered grasping, and real-time control system.  
+**Tech**: C++, Python, Arduino, Computer Vision, SolidWorks
 
-### Autonomous Car (Raspberry Pi)
-Developed a miniature self-driving car with lane detection and obstacle avoidance using computer vision and sensor fusion.
-**Tech**: Python, OpenCV, Raspberry Pi, Sensors
-
-### Aadhaar Processing API
-High-performance document processing system achieving 95%+ verification accuracy with sub-second inference latency.
-**Tech**: Python, FastAPI, YOLOv8, OpenCV, Tesseract, Redis
+### Autonomous Navigation Vehicle
+Self-driving car with lane detection, obstacle avoidance, and SLAM using computer vision and sensor fusion.  
+**Tech**: Python, OpenCV, Raspberry Pi, SLAM, Sensor Fusion
+---
 
 ## Experience
 
-**Software Developer** - Google Summer of Code, SAT (05/2025 - Present)  
-Architecting real-time gesture processing systems with sub-millisecond latency for live performance scenarios.
+**Software Developer** - Google Summer of Code (05/2025 - 09/2025)  
+Real-time gesture processing systems with sub-millisecond latency for live performances.
 
-**AI Engineer** - Qoneqt, Thane (06/2025 - Present)  
-Built scalable authentication pipeline serving 20,000+ users, improving verification accuracy from 28% to 95%.
+**AI Engineer** - Qoneqt (06/2025 - 09/2025)  
+Scaled authentication pipeline serving 20K+ users, improved accuracy from 28% to 95%.
 
-**Embedded Software Engineer** - Stamp 'IT Robotai & Solutions (03/2025 - 05/2025)  
-Optimized deep learning inference on Raspberry Pi, achieving 30+ FPS YOLO detection through model quantization.
-
-## Achievements
-
-- **Team Lead & Runner-Up** - ClearRoute Agentic AI Hackathon (100+ teams nationwide)
-- **Winner** - Local Robotics Competition & Khistijam College Coding Hackathon
-- **Robotics Club Lead** - Led smart navigation system project for visually impaired individuals
-
-## Certifications
-
-- IBM Machine Learning Professional Certificate
-- Applied Machine Learning (University of Michigan)
-- Computer Science and Programming Foundations (University of London)
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyandcpp-coder&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyandcpp-coder&layout=compact&theme=transparent&hide_border=true)
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yrevash)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pyandcpp-coder)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/yashtiwari9182)
-[![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1b11xIeccYCvirHlGR3RUcIXmyZz5q-li/view?usp=sharing)
+**Embedded Engineer** - Stamp 'IT Robotai (03/2025 - 05/2025)  
+Edge AI optimization achieving 30+ FPS YOLO detection on Raspberry Pi.
 
 ---
 
-*Building the future through AI, robotics, and innovative engineering solutions.*
+## Achievements
+
+- **Runner-Up** - ClearRoute Agentic AI Hackathon (100+ teams nationwide)
+- **Winner** - Local Robotics Competition & Coding Hackathon
+- **Robotics Club Lead** - Led smart navigation system for visually impaired
+- **Certifications** - IBM ML Professional, Applied ML (Univ. of Michigan)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pyandcpp-coder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyandcpp-coder&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/yrevash" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/yashtiwari9182" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/yashtiwari9182" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/12goYsxfh0glsTDPP-AZ9MlrF77PTeQ5H/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <p><em>Building intelligent robotic systems that bridge AI and physical automation</em></p>
+</div>
