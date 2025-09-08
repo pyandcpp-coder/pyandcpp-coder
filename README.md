@@ -1,160 +1,78 @@
-<h1 align="center">Hi 👋, I'm Yash Tiwari</h1>
+# Yash Tiwari
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+**Machine Learning Engineer | Embedded Systems Developer | AI Enthusiast**
 
+Currently pursuing Mechatronics Engineering at New Horizon Institute Of Technology, Thane (GPA: 8.2/10, graduating 12/2026)
 
-## About Me
+## About
 
-I'm a passionate **Machine Learning Engineer** with a strong foundation in AI/ML technologies and modern web development. Currently expanding my expertise in **ROSs**.
+I'm a passionate engineer focused on building scalable AI solutions and robotics systems. Currently working as a Software Developer at Google Summer of Code and AI Engineer at Qoneqt, with experience in embedded systems, computer vision, and full-stack development.
 
-- **Current Project**: [Shiksha-Sahayak](https://github.com/pyandcpp-coder/Shiksha-Sahayak) - An AI-powered educational assistance platform
-- **Learning**: ROS, RL
-- **Expertise**: Machine Learning, Deep Learning
-- **Focus**: Building scalable AI solutions & Robots
-- **Contact**: yashtiwari9182@gmail.com
+**Contact**: yashtiwari9182@gmail.com | 8369087569
 
----
+## Current Work
 
-## Tech Stack
+- **Google Summer of Code - SAT**: Developing real-time gesture processing systems for professional musicians
+- **Qoneqt**: Building scalable AI authentication pipelines serving 20,000+ users
+- **Learning**: Advanced ROS, Reinforcement Learning
 
-### AI/ML & Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Seaborn" />
-</p>
+## Technical Skills
 
-### Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-</p>
-
-### Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-### Databases & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-### Tools & Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-</p>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pyandcpp-coder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyandcpp-coder&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pyandcpp-coder&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pyandcpp-coder&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=628fdb&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pyandcpp-coder&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
+**Programming**: Python, C++, C, JavaScript, Bash  
+**AI/ML**: TensorFlow, PyTorch, scikit-learn, OpenCV, YOLOv8, Tesseract  
+**Robotics**: ROS, Arduino, Raspberry Pi, Qt  
+**Web**: FastAPI, Flask, Django, Next.js, Node.js  
+**Tools**: Docker, Git, Linux, GCP, Redis, Nginx
 
 ## Featured Projects
 
-### [Shiksha-Sahayak](https://github.com/pyandcpp-coder/Shiksha-Sahayak)
-An innovative AI-powered educational assistance platform designed to revolutionize learning experiences through intelligent tutoring and personalized content delivery.
+### 6-DOF Robotic Hand
+Designed and built a robotic hand with six degrees of freedom, implementing inverse kinematics for precise finger articulation and grasping capabilities.
+**Tech**: C++, Python, Arduino, SolidWorks
 
-**Tech Stack**: Python, Machine Learning, Web Development
-**Features**: 
-- AI-powered tutoring system
-- Personalized learning paths
-- Interactive content delivery
-- Progress tracking and analytics
+### Autonomous Car (Raspberry Pi)
+Developed a miniature self-driving car with lane detection and obstacle avoidance using computer vision and sensor fusion.
+**Tech**: Python, OpenCV, Raspberry Pi, Sensors
 
----
+### Aadhaar Processing API
+High-performance document processing system achieving 95%+ verification accuracy with sub-second inference latency.
+**Tech**: Python, FastAPI, YOLOv8, OpenCV, Tesseract, Redis
 
-## Latest Blog Posts
+## Experience
 
-<!-- BLOG-POST-LIST:START -->
-*Coming soon! Stay tuned for insights on Machine Learning, AI, and Full Stack Development.*
-<!-- BLOG-POST-LIST:END -->
+**Software Developer** - Google Summer of Code, SAT (05/2025 - Present)  
+Architecting real-time gesture processing systems with sub-millisecond latency for live performance scenarios.
 
----
+**AI Engineer** - Qoneqt, Thane (06/2025 - Present)  
+Built scalable authentication pipeline serving 20,000+ users, improving verification accuracy from 28% to 95%.
 
-## Connect With Me
+**Embedded Software Engineer** - Stamp 'IT Robotai & Solutions (03/2025 - 05/2025)  
+Optimized deep learning inference on Raspberry Pi, achieving 30+ FPS YOLO detection through model quantization.
 
-<div align="center">
-  <a href="https://linkedin.com/in/yrevash" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@yashtiwari9182" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://www.youtube.com/c/pythoncpp4945" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://kaggle.com/yashtiwari9182" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://www.hackerrank.com/yashtiwari9182" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-</div>
+## Achievements
 
----
+- **Team Lead & Runner-Up** - ClearRoute Agentic AI Hackathon (100+ teams nationwide)
+- **Winner** - Local Robotics Competition & Khistijam College Coding Hackathon
+- **Robotics Club Lead** - Led smart navigation system project for visually impaired individuals
 
-## Resume
+## Certifications
 
-<div align="center">
-  <a href="https://drive.google.com/file/d/1b11xIeccYCvirHlGR3RUcIXmyZz5q-li/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
-</div>
+- IBM Machine Learning Professional Certificate
+- Applied Machine Learning (University of Michigan)
+- Computer Science and Programming Foundations (University of London)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyandcpp-coder&show_icons=true&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyandcpp-coder&layout=compact&theme=transparent&hide_border=true)
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yrevash)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pyandcpp-coder)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/yashtiwari9182)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1b11xIeccYCvirHlGR3RUcIXmyZz5q-li/view?usp=sharing)
 
 ---
 
-<div align="center">
-  <h3> "The only way to do great work is to love what you do." - Steve Jobs</h3>
-  <p>Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on exciting projects or discuss opportunities in AI/ML and Full Stack Development.</p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+*Building the future through AI, robotics, and innovative engineering solutions.*
